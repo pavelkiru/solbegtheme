@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d16a229c-f3ad-4759-8f92-548f38c1f6bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../../../wordpress" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1scCimdqueGNIJus7dR7DH9NTnS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../vaubanfort/wp-content/themes" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\solbeg-test-task\wp-content\themes\solbegtheme\images" />
+      <recent name="D:\OSPanel\domains\solbeg-test-task\wp-content\themes\solbegtheme\template-parts" />
+      <recent name="D:\OSPanel\domains\solbeg-test-task\wp-content\themes\solbegtheme\inc" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16a229c-f3ad-4759-8f92-548f38c1f6bf" name="Default Changelist" comment="" />
+      <created>1621162626141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621162626141</updated>
+      <workItem from="1621162638963" duration="571000" />
+      <workItem from="1621636071838" duration="3000" />
+      <workItem from="1674895895091" duration="18180000" />
+      <workItem from="1674936162016" duration="15246000" />
+      <workItem from="1675058123750" duration="4104000" />
+      <workItem from="1675083635108" duration="14650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2140" y="147" key="#CLI_Interpreters" timestamp="1674897438995">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2140" y="147" key="#CLI_Interpreters/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1674897438995" />
+    <state x="2297" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1675104099650">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2297" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1675104099650" />
+    <state x="2340" y="247" key="FileChooserDialogImpl" timestamp="1675059690065">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2340" y="247" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1675059690065" />
+    <state x="2061" y="137" key="SettingsEditor" timestamp="1674897456591">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2061" y="137" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1674897456591" />
+    <state x="2032" y="47" width="1095" height="741" key="find.popup" timestamp="1675084770284">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2032" y="47" width="1095" height="741" key="find.popup/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1675084770284" />
+  </component>
+</project>
