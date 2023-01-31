@@ -46,7 +46,7 @@ get_header();
 
         <div class="search_section">
             <form action="" class="search_section_form">
-                <label for="" class="category_label"><?php _('Category', 'solbegtheme')?></label>
+                <label for="" class="category_label"><?php _e('Category', 'solbegtheme')?></label>
                 <select name="category" id="category">
                     <option value='all'>all</option>
                     <?php

@@ -1,8 +1,6 @@
 jQuery(document).ready(function ($) {
 
-    $(window).on('load', function() {
-        get_post_data();
-    });
+
 
     $(".search_section_form").change(function () {
         get_post_data();
@@ -31,7 +29,7 @@ jQuery(document).ready(function ($) {
                 $('#form_loader_img').hide();
                 $('.search_section .empty').show();
 
-               // console.log(response)
+
                 const pagList = document.querySelectorAll('.pagination');
                 const showList = document.querySelectorAll('.search_section_content');
 
@@ -72,6 +70,9 @@ jQuery(document).ready(function ($) {
                             })
                             let categories_title_str = categories_title.join(" | ")
 
+                           // console.log(arrayList[i].postMeta.description)
+
+
 
                             item += `<div class="post_wrapper">
                              <a href=` + arrayList[i].permalink + ` class="link">
@@ -82,6 +83,9 @@ jQuery(document).ready(function ($) {
                                          <h2 class="subtitle">` + arrayList[i].title + `</h2>
                                          <h3>Category: ` + categories_title_str + ` </h3>
                                          <p>` + arrayList[i].theExcerpt + `</p>
+                                         ${ arrayList[i].postMeta.title ?  "<p>Meta title: " + arrayList[i].postMeta.title + "</p>" : '' }
+                                         ${ arrayList[i].postMeta.description ?  "<p>Meta desc: " + arrayList[i].postMeta.description + "</p>" : '' }
+                                         
                                      </div>
                                  </div>
                              </a>
@@ -113,7 +117,11 @@ jQuery(document).ready(function ($) {
             }
         })
     }
+
+
+    $(document).ready( get_post_data() )
+
 });
 
 
-console.log('hi front');
+
